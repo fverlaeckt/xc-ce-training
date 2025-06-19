@@ -15,6 +15,6 @@ f5xc_sms_node_count = 1
 f5xc_sms_description = "fverlaeckt Azure smsv2 site created with Terraform"
 
 # Azure details
-location = "westeurope"
+location = "uksouth"
 f5xc_sms_instance_type = "Standard_DS4_v2"
 f5xc_sms_storage_account_type = "Standard_LRS"

@@ -54,7 +54,7 @@
         - Set `Name` = `AZURE_BACKEND_KEY` and for `Value` use the storage key you saved at the end of step 4 above
         - Set `Name` = `VES_P12_PASSWORD` and for `Value` use the complex password you saved in step 4 above
         - Set `Name` = `ARM_CLIENT_ID` and for `Value` use the application (client) ID from the app registration in step 3 above
-        - Set `Name` = `ARM_TENANT_ID` and for `Value` use the tenant ID obtained in step 3 above.
+        - Set `Name` = `ARM_TENANT_ID` and for `Value` use the tenant ID obtained in step 3 above
         - Set `Name` = `ARM_SUBSCRIPTION_ID` and for `Value` use the subscription ID obtained in step 3 above.
         - Set `Name` = `ARM_CLIENT_SECRET` and for `Value` use the client secret obtained in step 3 above.
 
