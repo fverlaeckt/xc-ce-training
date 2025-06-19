@@ -58,6 +58,9 @@
         - Set `Name` = `ARM_SUBSCRIPTION_ID` and for `Value` use the subscription ID obtained in step 3 above.
         - Set `Name` = `ARM_CLIENT_SECRET` and for `Value` use the client secret obtained in step 3 above.
 
+
+
+
 8. At the CLI, cd into the cloned folder e.g. `cd xc-ce-training` and then push your updated config to your git origin:
     - `git add .` or if you want to be specific `git add provider.tf vars.auto.tfvars`
     - `git commit -m "<insert your message here e.g. updated vars>"`
